@@ -1,0 +1,10 @@
+Ques: How many of these can be a variable name?
+01PWskills : This can't be a variable name, because starting with digit.
+
+ _FLOAT : This can be a variable name, because starting with underscore.
+
+ int : This can't be a variable name, because int is a special keyword(name of datatype)
+
+ FLOAT : This can be a variable name, because in float datatype all are in small letters. But here every letter is                       capital.
+
+ You will succeed : This can't be a variable name, because blanks between words are not allowed.

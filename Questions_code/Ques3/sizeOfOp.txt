@@ -1,0 +1,8 @@
+1)How much spaces does the following data type take?
+    1.int
+    2.bool
+    3.float
+Ans: 1. The int datatype takes 4 bytes,
+         2. The bool datatype takes 1 byte and 
+         3. The float datatype takes 4 bytes space in computer memory.
+

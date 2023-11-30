@@ -1,0 +1,14 @@
+Predict the output:
+void main()
+{
+ int a=4;
+ int b=5;
+ a++;b--;
+ cout<<++a<<” “<<b–-;
+}
+
+Ans: The value of a is 4, a++ means a=5.
+     The value of b is 5, b-- means b=4
+     ++a means a=6,
+     b-- means b=4, and after printing 4 value will be decremented by 1 as it is post increment.
+     Output should be: 6 4
