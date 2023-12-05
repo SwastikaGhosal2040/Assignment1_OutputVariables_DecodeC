@@ -1,0 +1,5 @@
+We have to write endl command to print "Physics" and "Wallah" in two different
+lines in C++.
+After writing "Physics" we have to write endl and then we should write 
+"Wallah". 
+Thus we can print "Physics" and "Wallah" in two different lines.
